@@ -1,6 +1,6 @@
 # my_ls 🗂️
 
-
+![my_ls](https://github.com/toro-nicolas/my_ls/assets/146118419/37edd31b-7d4d-4b5b-8734-09a243f86f6e)
 
 ### Table of contents 📑
 - [Project goal](https://github.com/toro-nicolas/my_ls#project-goal-)
